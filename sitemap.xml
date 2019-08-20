@@ -6,11 +6,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://ie310.cn/ie310go/jj/</loc>
-     <lastmod>2019-08-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>http://ie310.cn/ie310go/start/</loc>
      <lastmod>2019-08-20</lastmod>
      <changefreq>daily</changefreq>
@@ -217,6 +212,11 @@
     </url>
     <url>
      <loc>http://ie310.cn/ie310/</loc>
+     <lastmod>2019-08-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://ie310.cn/sy/</loc>
      <lastmod>2019-08-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
